@@ -1,4 +1,4 @@
-# Repositorio con retos de ![Frontend Mentor](https://www.frontendmentor.io/)
+# Repositorio con retos de [Frontend Mentor](https://www.frontendmentor.io/)
 
 Aquí hago un recojo de todos los retos que haga, usaré Astro con Tailwind y si tengo que hacer algo de lógica más compleja SolidJS
 
@@ -10,4 +10,4 @@ Cada reto tendrá los estilos separados de los demás, cuando avance lo subiré 
 
 ## Proyectos pendientes
 
-- ![QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+- [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
